@@ -1,19 +1,11 @@
 {
     "compilerOptions": {
         "emitDecoratorMetadata": true,
-        "experimentalDecorators": true,
         "module": "commonjs",
         "target": "es5",
         "noImplicitAny": true,
         "removeComments": false,
         "preserveConstEnums": true,
         "sourceMap": true
-    },
-    "files": [
-        "main.ts",
-        "mycomponent.ts",
-        "github.service.ts",
-        "tooltip.ts",
-        "tsd.d.ts"
-    ]
+    }
 }
